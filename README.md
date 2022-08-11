@@ -1,3 +1,5 @@
+# Deploying an Express app to Netlify as a Serverless Function (Lambda)
+
 ## INITIAL SETUP
 
 ```bash
